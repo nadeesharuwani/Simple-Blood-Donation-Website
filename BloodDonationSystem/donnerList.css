@@ -1,0 +1,12 @@
+th{
+  width:80px;
+  height: 30px;
+  background-color: blanchedalmond;
+}
+td{
+  background-color: rgb(219, 172, 192);
+  text-align: center;
+}
+table{
+  width:60%
+}
